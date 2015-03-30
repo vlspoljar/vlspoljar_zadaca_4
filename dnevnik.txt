@@ -1,0 +1,15 @@
+
+Dodan novi resurs u spremiste: uzorci_kreiranja.txt	Vrijeme: 23.01.2015 22:41:40
+Dodan novi resurs u spremiste: uzorci_kreiranja2.txt	Vrijeme: 23.01.2015 22:41:45
+Dodan novi resurs u spremiste: uzorci_kreiranja.txt	Vrijeme: 23.01.2015 22:42:27
+Dodan novi resurs u spremiste: uzorci_kreiranja.txt	Vrijeme: 23.01.2015 22:56:34
+Dodan novi resurs u spremiste: uzorci_kreiranja2.txt	Vrijeme: 23.01.2015 22:56:38
+Brisanje datoteke: uzorci_kreiranja.txt	Broj koristenja: 0	Ukupno vrijeme: 01:00:09
+Brisanje datoteke: uzorci_kreiranja2.txt	Broj koristenja: 0	Ukupno vrijeme: 01:00:04
+Dodan novi resurs u spremiste: uzorci_kreiranja3.txt	Vrijeme: 23.01.2015 22:56:43
+Koristenje datoteke: uzorci_kreiranja3.txt	Vrijeme: 23.01.2015 22:56:54
+Dodan novi resurs u spremiste: uzorci_kreiranja.txt	Vrijeme: 23.01.2015 22:59:56
+Dodan novi resurs u spremiste: uzorci_kreiranja2.txt	Vrijeme: 23.01.2015 23:00:05
+Brisanje datoteke: uzorci_kreiranja.txt	Broj koristenja: 0	Ukupno vrijeme: 01.01.1970 01:00:12
+Brisanje datoteke: uzorci_kreiranja2.txt	Broj koristenja: 0	Ukupno vrijeme: 01.01.1970 01:00:04
+Dodan novi resurs u spremiste: uzorci_kreiranja3.txt	Vrijeme: 23.01.2015 23:00:09
